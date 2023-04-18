@@ -20,3 +20,7 @@ put this in your server.cfg:
 
 
 start sbacmd
+
+
+
+/waterkit to activate it (cant deactivate it at the current time) -- will be fixing soon
